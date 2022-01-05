@@ -10,7 +10,7 @@
   <br>
   ![badge](https://img.shields.io/github/last-commit/ratalla816/cold-fusion)
   <br>
-  ![badge](https://img.shields.io/badge/license-MIT-important)
+  ![badge](https://img.shields.io/badge/license-Apache2.0-important)
   
   ## Description
   
@@ -43,9 +43,9 @@
   Rob Atalla
     
   ## License
-  ![badge](https://img.shields.io/badge/license-MIT-important)
+  ![badge](https://img.shields.io/badge/license-Apache2.0-important)
   <br>
-  Permission to use this application is granted under the MIT license. <https://opensource.org/licenses/MIT>
+  Permission to use this application is granted under the Apache License 2.0. <https://opensource.org/licenses/apache>
 
 
   ## Testing
