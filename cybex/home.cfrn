@@ -15,6 +15,7 @@
 </DIY>
 </BODY>
 </HTML>
+
 component greetings {
        function helloWorld(){
              var myGreeting="Hello World!";

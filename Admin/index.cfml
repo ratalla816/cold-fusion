@@ -1,3 +1,20 @@
+<!DOCTYPE HTML PUBLIC ‘-//W3C//DTD HT\lL 4.0 Transitional//EN’>
+<HTML>
+<HEAD>
+<TITLE>My Home Page</TITLE>
+</HEAD>
+<BODY BGCOLo’R-“#FFFFFF”>
+
+<DIV ALIGN-‘center’>
+<HR><B>Welcome to My Home Page!</B><HR>
+<B>Today’s date ‘;s:</B><BR>
+<CFOUTPUT>
+<CFSET today – Ncw(»
+<I>#today#</I>
+</CFOUTPUT>
+</DIY>
+</BODY>
+</HTML>
 component greetings {
        function helloWorld(){
              var myGreeting="Hello World!";
@@ -168,5 +185,7 @@ component persistent="true"{
      WriteDump(myArtists);
 
 </cfscript>
+
+
 
 
